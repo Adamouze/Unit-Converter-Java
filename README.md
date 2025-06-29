@@ -81,7 +81,7 @@ Key features:
 ## Authors
 
 - Original author: davidroussel
-- Additional features and maintenance: [Your Name]
+- Additional features and maintenance: Adam Ouzegdouh
 
 ---
 
