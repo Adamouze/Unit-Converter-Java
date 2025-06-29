@@ -1,0 +1,8 @@
+Bonjour Monsieur,
+j'ai ajouté plusieurs petites fonctionalités au projet :
+- Un responsive design : la taille des éléments de l'application s'adapte à la taille de la fenêtre.
+- Le bouton About fonctionnel
+- La conversion d'unité s'effectue lorsque nous changeons l'unité de source/destination au lieu de devoir à nouveau appuyer sur ENTER
+- Un executable fonctionnel,
+  à condition de mettre votre bon PATH de votre javafx/lib dans les fichiers Config_Unit_Converter_Windows.bat ou Launch_Unit_Converter_Linux.sh en fonction de votre OS.
+  Dans le cas de l'executable Linux, pensez à utiliser la commande "chmod +x Launch_Unit_Converter_Linux.sh" pour pouvoir donner l'accès à l'execution du programme.
